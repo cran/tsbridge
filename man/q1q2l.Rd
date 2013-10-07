@@ -46,7 +46,7 @@ A \code{data.frame} with columns:
  \item{l  }{Ratio of \code{q1} and \code{q2}.}
 }
 \references{
-Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. Forthcoming
+Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. 29 43 1187-1226 doi:10.4054/DemRes.2013.29.43
 
 Alan Genz, Frank Bretz, Tetsuhisa Miwa, Xuefei Mi, Friedrich Leisch, Fabian Scheipl, Torsten Hothorn (2012). mvtnorm: Multivariate Normal
 and t Distributions. R package version 0.9-9994. http://CRAN.R-project.org/package=mvtnorm

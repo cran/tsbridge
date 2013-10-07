@@ -120,7 +120,7 @@ nc$prob <- exp(nc$r - nc.star)/sum(exp(nc$r - nc.star))
 nc 
 
 ##
-## Tidy up. Delete created folders and BUGS mdoel
+## Tidy up. Delete created folders and BUGS model
 ##
 for (p in 0:8) {
   unlink(paste0("./AR", p), recursive = TRUE)

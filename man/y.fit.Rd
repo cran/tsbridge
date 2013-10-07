@@ -33,7 +33,8 @@ A \code{data.frame} where rows are simulations and columns are time.
 Guy J. Abel
 }
 \note{
-The suggestion of the use of \code{ysim} to account for missing values was taken from discussion on Cross Validated: \url{http://stats.stackexchange.com/questions/47877/calculating-the-likelihood-of-time-series-data-when-there-are-missing-data}
+The suggestion of the use of \code{ysim} to account for missing values was taken from discussion on Cross Validated: 
+\url{http://stats.stackexchange.com/questions/47877/calculating-the-likelihood-of-time-series-data-when-there-are-missing-data}
 }
 \seealso{
 \code{\link{h.fit}}, \code{\link{tslogl}}

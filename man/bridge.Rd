@@ -34,7 +34,7 @@ Provides an iterative solution to estimate the normalising constant, following e
 See Details.
 }
 \references{
-Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. Forthcoming
+Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. 29 43 1187-1226 doi:10.4054/DemRes.2013.29.43
 
 Meng, X.-L., & Wong, W. H. (1996). Simulating Ratios of Normalizing Constants via a Simple Identity: A Theoretical Exploration. \emph{Statistica Sinica}, 6, 831-860. 
 }

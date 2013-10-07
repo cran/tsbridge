@@ -6,7 +6,7 @@
 Calculated normalising constants for Bayesian time series models
 }
 \description{
-The tsbridge package contains a collection of R functions that can be used to estimate the normalising constant using the bridge sampler of Meng and Wong (1996). The functions can be applied to calculate posterior model probabilities for a variety of time series Bayesian models, where parameters are estimated using BUGS, and models themselves are created using the tsbugs package.
+The tsbridge package contains a collection of R functions that can be used to estimate normalising constants using the bridge sampler of Meng and Wong (1996). The functions can be applied to calculate posterior model probabilities for a variety of time series Bayesian models, where parameters are estimated using BUGS, and models themselves are created using the tsbugs package.
 }
 \details{
 \tabular{ll}{
@@ -23,7 +23,7 @@ Guy J. Abel and Jackie S. T. Wong
 Maintainer: Guy J. Abel <g.j.abel@gmail.com>
 }
 \references{
-Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. Forthcoming
+Abel, G.J., Bijak, J., Forster, J.J., Raymer J., Smith P.W.F. and Wong, J.S.T. (2013) Integrating uncertainty in time series population forecasts: An illustration using a simple projection model. \emph{Demographic Research}. 29 43 1187-1226 doi:10.4054/DemRes.2013.29.43
 
 Meng, X.-L., & Wong, W. H. (1996). Simulating Ratios of Normalizing Constants via a Simple Identity: A Theoretical Exploration. \emph{Statistica Sinica}, 6, 831-860. 
 

@@ -16,8 +16,7 @@ function(bug,sims,pre.beg=FALSE){
     psi[,1][psi[,1]==0]<--log(psi.star[,1])
     psi[,-1][psi[,-1]==0]<-2*psi.star[,-1]-1
     max.psi<-ncol(psi)-1
-    if(is.null(bug$info$args$sv.beg)) #can delete once get sv.beg into tsbugs
-      sv.beg<-beg+bug$info$args$sv.order
+    sv.beg<-beg+bug$info$args$sv.order
     #sv.beg<-bug$info$args$sv.beg
     #create h, equivlent to y (data in y.mean.fn)
     h<-matrix(NA, k, n)
